@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8448b7eb3cd281a997e95340cb9d0918",
+    "revision": "ba9fc28e35502e452b6b6857263bf5c8",
     "url": "/ticket-manager/index.html"
   },
   {
-    "revision": "be33603c9d5124a0e10f",
+    "revision": "1709416ebe3a09543d50",
     "url": "/ticket-manager/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ticket-manager/static/js/2.337df705.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be33603c9d5124a0e10f",
-    "url": "/ticket-manager/static/js/main.6ee3f6d8.chunk.js"
+    "revision": "1709416ebe3a09543d50",
+    "url": "/ticket-manager/static/js/main.ea55cf6b.chunk.js"
   },
   {
     "revision": "84735a8ef65e1f4fca50",
