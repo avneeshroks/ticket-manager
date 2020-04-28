@@ -2,7 +2,7 @@
   "name": "ticket-manager",
   "version": "0.1.0",
   "private": true,
-  "hostname": "https://avneeshroks.github.io/ticket-manager",
+  "homepage": "https://avneeshroks.github.io/ticket-manager",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
