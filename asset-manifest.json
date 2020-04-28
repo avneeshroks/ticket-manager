@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ticket-manager/static/css/main.d1b05096.chunk.css",
-    "main.js": "/ticket-manager/static/js/main.ea55cf6b.chunk.js",
-    "main.js.map": "/ticket-manager/static/js/main.ea55cf6b.chunk.js.map",
+    "main.js": "/ticket-manager/static/js/main.535b970c.chunk.js",
+    "main.js.map": "/ticket-manager/static/js/main.535b970c.chunk.js.map",
     "runtime-main.js": "/ticket-manager/static/js/runtime-main.936c4e74.js",
     "runtime-main.js.map": "/ticket-manager/static/js/runtime-main.936c4e74.js.map",
     "static/js/2.337df705.chunk.js": "/ticket-manager/static/js/2.337df705.chunk.js",
     "static/js/2.337df705.chunk.js.map": "/ticket-manager/static/js/2.337df705.chunk.js.map",
     "index.html": "/ticket-manager/index.html",
-    "precache-manifest.c2e1bf53dbee97938cd54e82100c911b.js": "/ticket-manager/precache-manifest.c2e1bf53dbee97938cd54e82100c911b.js",
+    "precache-manifest.a0ca1ae1fd441c649495be59df6bb74b.js": "/ticket-manager/precache-manifest.a0ca1ae1fd441c649495be59df6bb74b.js",
     "service-worker.js": "/ticket-manager/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/ticket-manager/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.337df705.chunk.js.LICENSE.txt": "/ticket-manager/static/js/2.337df705.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.936c4e74.js",
     "static/js/2.337df705.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.ea55cf6b.chunk.js"
+    "static/js/main.535b970c.chunk.js"
   ]
 }
