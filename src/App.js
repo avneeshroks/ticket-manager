@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Testing the dummy homepage here.
+          Testing the page again...
         </p>
       </header>
     </div>
