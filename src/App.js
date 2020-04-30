@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Testing the page again...
+          Testing the page again with auto deploy action...
         </p>
       </header>
     </div>
