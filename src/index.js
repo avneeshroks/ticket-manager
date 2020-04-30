@@ -1,17 +1,20 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import "react-app-polyfill/ie11";
+import "react-app-polyfill/stable";
+import "react-perfect-scrollbar/dist/css/styles.css";
+import "nprogress/nprogress.css";
+import "./mixins/chartjs";
+import React from "react";
+import ReactDOM from "react-dom";
+
+import { SettingsProvider } from "./context/SettingsContext";
+import { restoreSettings } from "./utils/settings";
+import App from "./App";
+
+const settings = restoreSettings();
 
 ReactDOM.render(
-  <React.StrictMode>
+  <SettingsProvider settings={settings}>
     <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+  </SettingsProvider>,
+  document.getElementById("root")
 );
-
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
