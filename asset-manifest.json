@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/ticket-manager/static/css/main.d1b05096.chunk.css",
-    "main.js": "/ticket-manager/static/js/main.535b970c.chunk.js",
-    "main.js.map": "/ticket-manager/static/js/main.535b970c.chunk.js.map",
-    "runtime-main.js": "/ticket-manager/static/js/runtime-main.936c4e74.js",
-    "runtime-main.js.map": "/ticket-manager/static/js/runtime-main.936c4e74.js.map",
-    "static/js/2.337df705.chunk.js": "/ticket-manager/static/js/2.337df705.chunk.js",
-    "static/js/2.337df705.chunk.js.map": "/ticket-manager/static/js/2.337df705.chunk.js.map",
+    "static/js/0.2414d020.chunk.js": "/ticket-manager/static/js/0.2414d020.chunk.js",
+    "static/js/0.2414d020.chunk.js.map": "/ticket-manager/static/js/0.2414d020.chunk.js.map",
+    "static/js/1.a2fafbcf.chunk.js": "/ticket-manager/static/js/1.a2fafbcf.chunk.js",
+    "static/js/1.a2fafbcf.chunk.js.map": "/ticket-manager/static/js/1.a2fafbcf.chunk.js.map",
+    "main.js": "/ticket-manager/static/js/main.24155bbe.chunk.js",
+    "main.js.map": "/ticket-manager/static/js/main.24155bbe.chunk.js.map",
+    "runtime-main.js": "/ticket-manager/static/js/runtime-main.6ac5318b.js",
+    "runtime-main.js.map": "/ticket-manager/static/js/runtime-main.6ac5318b.js.map",
+    "static/css/4.43f2070e.chunk.css": "/ticket-manager/static/css/4.43f2070e.chunk.css",
+    "static/js/4.102d15bf.chunk.js": "/ticket-manager/static/js/4.102d15bf.chunk.js",
+    "static/js/4.102d15bf.chunk.js.map": "/ticket-manager/static/js/4.102d15bf.chunk.js.map",
+    "static/js/5.c22900c2.chunk.js": "/ticket-manager/static/js/5.c22900c2.chunk.js",
+    "static/js/5.c22900c2.chunk.js.map": "/ticket-manager/static/js/5.c22900c2.chunk.js.map",
     "index.html": "/ticket-manager/index.html",
-    "precache-manifest.a0ca1ae1fd441c649495be59df6bb74b.js": "/ticket-manager/precache-manifest.a0ca1ae1fd441c649495be59df6bb74b.js",
+    "precache-manifest.088762ed2d92192bb5dcf7948d1c4204.js": "/ticket-manager/precache-manifest.088762ed2d92192bb5dcf7948d1c4204.js",
     "service-worker.js": "/ticket-manager/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/ticket-manager/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.337df705.chunk.js.LICENSE.txt": "/ticket-manager/static/js/2.337df705.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ticket-manager/static/media/logo.5d5d9eef.svg"
+    "static/css/4.43f2070e.chunk.css.map": "/ticket-manager/static/css/4.43f2070e.chunk.css.map",
+    "static/js/4.102d15bf.chunk.js.LICENSE.txt": "/ticket-manager/static/js/4.102d15bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.936c4e74.js",
-    "static/js/2.337df705.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.535b970c.chunk.js"
+    "static/js/runtime-main.6ac5318b.js",
+    "static/css/4.43f2070e.chunk.css",
+    "static/js/4.102d15bf.chunk.js",
+    "static/js/main.24155bbe.chunk.js"
   ]
 }
