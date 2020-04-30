@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is sample test for gh-actions and gh-pages.....
+          This is sample test for gh-actions and gh-pages..
         </p>
       </header>
     </div>
