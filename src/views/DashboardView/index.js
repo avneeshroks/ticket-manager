@@ -30,7 +30,7 @@ function DashboardView() {
   const classes = useStyles();
   
   return (
-    <Page className={classes.root} title="Dashboard">
+    <Page className={classes.root} title="Ticker Manager Dashboard">
       <Container maxWidth={false} className={classes.container}>
         <Header />
         <Grid container spacing={3}>
